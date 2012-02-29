@@ -1,0 +1,7 @@
+* download papaya sdk
+* install Java SDK 1.6
+* set env "JAVA_HOME" to "C:\Program Files\Java\jdk1.6.0_25" and "PATH" to "C:\Program Files\Java\jdk1.6.0_25\bin"
+* run "install.bat"
+* put source under the folder "projects\teller"
+* run "compile.bat teller"
+* run "run.bat teller"
